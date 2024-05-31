@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "es6-promisify": "5.0.0",
-    "raw.macro": "^0.3.0",
+    "raw.macro": "^0.7.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-live": "2.2.1",
